@@ -1,0 +1,9 @@
+{
+    "settings": {
+    "AccessKey": "YOURAWSACCESSKEY",
+    "SecretKey": "YOURAWSSECRETAPIKEY",
+    "Region": "eu-west-1",
+	"SlackToken": "YOURSLACKAPITOKEN",
+	"QueueUrls": []
+   }
+}
