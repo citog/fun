@@ -9,7 +9,9 @@ Prerequisites
 
 
 -The PSSlack module from the powershell gallery if using the slack notifier
+
 -The AWS powershell tools
+
 -Powershell v3 or later
 
-When first populating the config file, you may want to find the queue URLs - the optional discoverUrls script will output the URLs that are returned by the API key specified in the config file
+When first populating the config file, you may want to find the queue URLs. The optional discoverUrls script will output the URLs that are returned by the API key specified in the config file
